@@ -1,0 +1,12 @@
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\CompressãoImagemBot.exe.config
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\CompressãoImagemBot.exe
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\CompressãoImagemBot.pdb
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\Telegram.Bot.dll
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\bin\Debug\Telegram.Bot.xml
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\obj\Debug\CompressãoImagemBot.csprojAssemblyReference.cache
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\obj\Debug\CompressãoImagemBot.csproj.CoreCompileInputs.cache
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\obj\Debug\CompressãoImagemBot.csproj.CopyComplete
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\obj\Debug\CompressãoImagemBot.exe
+C:\Users\thiag_001\source\repos\CompressãoImagemBot\CompressãoImagemBot\obj\Debug\CompressãoImagemBot.pdb
