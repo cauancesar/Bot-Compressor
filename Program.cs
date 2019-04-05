@@ -1,24 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Telegram.Bot.Args;
-using Telegram.Bot.Types;
 using System.Drawing;
-using System.IO;
 using System.Drawing.Imaging;
+using System.IO;
 using System.Runtime.InteropServices;
-using Telegram.Bot.Types.InputFiles;
+using Telegram.Bot.Args;
 using File = System.IO.File;
-using System.Threading;
 
 namespace CompressãoImagemBot
 {
     class Program 
     {
         // Cria o objeto do telegram
-        private static Telegram.Bot.ITelegramBotClient bot = new Telegram.Bot.TelegramBotClient("756256983:AAEo0A6EpytdDaek4lKKshP6kbYRtZ_tKV8");
+        private static Telegram.Bot.ITelegramBotClient bot = new Telegram.Bot.TelegramBotClient("Coloque o token aqui");
         static void Main(string[] args)
         {
             try
