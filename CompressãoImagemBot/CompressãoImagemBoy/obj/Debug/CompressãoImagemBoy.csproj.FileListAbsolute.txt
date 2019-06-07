@@ -1,0 +1,17 @@
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Dropbox.Api.dll
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Telegram.Bot.dll
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Dropbox.Api.xml
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\Telegram.Bot.xml
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.csprojAssemblyReference.cache
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.frmTelaBot.resources
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.Properties.Resources.resources
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.csproj.GenerateResource.cache
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.csproj.CoreCompileInputs.cache
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBoy.csproj.CopyComplete
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\CompressãoImagemBot.exe.config
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\CompressãoImagemBot.exe
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\bin\Debug\CompressãoImagemBot.pdb
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBot.exe
+C:\Users\thiag_001\source\repos\CompressãoImagemBoy\CompressãoImagemBoy\obj\Debug\CompressãoImagemBot.pdb
