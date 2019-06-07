@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressãoImagemBot", "CompressãoImagemBoy\CompressãoImagemBot.csproj", "{DA4C3E18-8415-4525-80DC-C56CBEF9D696}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressãoImagemBot", "CompressãoImagemBot\CompressãoImagemBot.csproj", "{FAD61FC1-2A39-4AC2-AE1C-3C217D94EF8B}"
+>>>>>>> 241659bf0ae85e544cce35f86a348dd1ffcb8ee5
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{DA4C3E18-8415-4525-80DC-C56CBEF9D696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA4C3E18-8415-4525-80DC-C56CBEF9D696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4C3E18-8415-4525-80DC-C56CBEF9D696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4C3E18-8415-4525-80DC-C56CBEF9D696}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{FAD61FC1-2A39-4AC2-AE1C-3C217D94EF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD61FC1-2A39-4AC2-AE1C-3C217D94EF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD61FC1-2A39-4AC2-AE1C-3C217D94EF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD61FC1-2A39-4AC2-AE1C-3C217D94EF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 241659bf0ae85e544cce35f86a348dd1ffcb8ee5
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {600A9017-9C79-43AF-9FF5-532E7CD1CC8B}
+=======
+		SolutionGuid = {BFCB16FC-8D40-40B3-BBE1-7FFA7C795D3E}
+>>>>>>> 241659bf0ae85e544cce35f86a348dd1ffcb8ee5
 	EndGlobalSection
 EndGlobal
